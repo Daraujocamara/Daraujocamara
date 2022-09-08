@@ -2,9 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript
-- 😄 Pronouns: Ele/Dele
+
 
 <div>
   <a href="https://github.com/Daraujocamara">
